@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movie_1</string>
+
+
+    <string name="poster_base_path">"http://image.tmdb.org/t/p/w185/"</string>
+    <string name="popular">"Popular"</string>
+    <string name="top_rated">"Top Rated"</string>
+
+    <string name="original_title">"Original Title"</string>
+    <string name="overview">"overview "</string>
+    <string name="vote_average">"Vote Average"</string>
+    <string name="release_date">"Release Date"</string>
+    <string name="show_review">Review</string>
+    <string name="image_view_conten">"Thumbnail placeholder"</string>
+    <string name="auther_lable">Auther: </string>
+    <string name="content_lable">His Reviews:</string>
+    <string name="favorite">favorite</string>
+    <string name="position">position</string>
+
+
+</resources>
